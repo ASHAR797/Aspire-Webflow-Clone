@@ -1,0 +1,50 @@
+@media (max-width:600px) {    
+    main{
+        height: 232em;
+    }   
+    .sec-1-img img {
+        width: 20em;
+    }
+    .SEC-1-TEXT{
+        width: 93%;
+        height: 34em;
+    }
+    .SEC-1-TEXT h1{
+        font-size: 33px;
+        width: 80%;
+    }
+    .SEC-1-TEXT p {
+        line-height: 31px;
+        font-size: 22px;
+        width: 80%;
+    }
+    .sec-2-1{
+        width: 93%;
+    height: 30em;
+    }
+    .sec-2-1 h1 {
+        font-size: 33px;
+        width: 80%;
+
+    }
+    .sec-2-1 p {
+        width: 80%;
+        font-size: 19px;
+        line-height: 30px;
+}
+.sec-3{
+    height: 35em;
+}
+.sec-3-main {
+    height: 23em;
+    width: 22em;
+}
+.footer{
+    height: 17em;
+    justify-content: start;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    top: -139px;
+}
+}
